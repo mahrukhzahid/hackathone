@@ -1,0 +1,17 @@
+body{
+    background-image: url(./cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA3L2pvYjE0NDgtYmFja2dyb3VuZC0wNGEteF8xLmpwZw.webp);
+}
+main{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.navbar-brand{
+    margin-left: 100px;
+}
+.container{
+    margin-top: 200px;
+}
+.main{
+    font-size: 50px;
+  font-weight: bolder;
+}
